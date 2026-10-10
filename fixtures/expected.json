@@ -1,0 +1,20 @@
+{
+  "_note": "Expected classifications for as_of=2026-10-10 against bay_heat_estimates.json",
+  "as_of": "2026-10-10",
+  "memory_only": {
+    "E1": "silent",
+    "E2": "expired_open",
+    "E3": "ok_pending",
+    "E4": "won",
+    "silent_expired_cents": 1100000,
+    "silent_expired_ids": ["E1", "E2"]
+  },
+  "quotepulse": {
+    "E1": "follow_up_due",
+    "E2": "expired_open",
+    "E3": "ok_pending",
+    "E4": "won",
+    "follow_up_due_ids": ["E1"],
+    "E1_touch_due": "2026-10-10"
+  }
+}

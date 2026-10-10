@@ -1,0 +1,43 @@
+{
+  "_note": "SAMPLE / fictional HVAC shop Bay Heat Co. Not real customers or jobs.",
+  "shop": "Bay Heat Co",
+  "as_of_hint": "2026-10-10",
+  "estimates": [
+    {
+      "id": "E1",
+      "customer": "SAMPLE Rivera Residence",
+      "job": "Furnace swap 80k BTU",
+      "amount_cents": 480000,
+      "sent_at": "2026-10-07",
+      "expires_at": "2026-10-21",
+      "status": "open"
+    },
+    {
+      "id": "E2",
+      "customer": "SAMPLE Ortega Bakery",
+      "job": "Rooftop unit repair quote",
+      "amount_cents": 620000,
+      "sent_at": "2026-09-20",
+      "expires_at": "2026-10-05",
+      "status": "open"
+    },
+    {
+      "id": "E3",
+      "customer": "SAMPLE Chen Duplex",
+      "job": "Duct cleaning + filter upgrade",
+      "amount_cents": 320000,
+      "sent_at": "2026-10-08",
+      "expires_at": "2026-10-22",
+      "status": "open"
+    },
+    {
+      "id": "E4",
+      "customer": "SAMPLE Park Condos",
+      "job": "Thermostat fleet install",
+      "amount_cents": 210000,
+      "sent_at": "2026-09-28",
+      "expires_at": "2026-10-12",
+      "status": "won"
+    }
+  ]
+}
